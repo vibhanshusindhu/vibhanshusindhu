@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vibhanshu Singh Sindhu
-- 👀 My research specialisation lies in Computer Vision and Artificial Intelligence.
-- 🌱 I’m currently working on Text Recognition, Text Analysis, Object Detection, Object Recognition and tracking vision based models.
+- 👀 My research specialisation lies in Computer Vision and Deep Learning.
 - 💞️ I’m looking to collaborate on any computer vision based projects.
 
 <!---
